@@ -4,6 +4,10 @@
 
 In this project we need to build a simple image carousel.
 
+
+
+![Carousel](https://github.com/CodersInHood/02_simple_carousel/blob/master/images/carousel.gif)
+
 ##### Requirements:
 
 1. We need to fetch images from any API.
